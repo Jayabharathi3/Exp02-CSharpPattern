@@ -5,6 +5,7 @@ To write the C# program to print Pascal's triangle.
 
 ## Algorithm:
 
+
 ### Step1:
 Initialize the neccessary attributes.
 ### Step2:
